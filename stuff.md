@@ -24,7 +24,7 @@ Router DNS: 8.8.8.8
 | ------- | ------- | ------- | ------- | ------- |
 | Router | R1 | 192.168.4.129 | F0:A7:31:85:09:8F| Test123* |
 | Switch | SW1 | 192.168.4.130 | 48:A9:8A:73:C9:A2 | SW1 |
-| Notebook (User) | OpiKula | 192.168.4.131 | D8:43:AE:84:C5:18 |  |
+| Notebook (User) | OpiKula | 192.168.4.131 / 0.0.0.0 | D8:43:AE:84:C5:18 |  |
 | Wireless Bridge | C1 | 192.168.4.132 | 28:C2:1F:00:15:A9 | PTP1 |
 | Wireless Bridge | C2 | 0.0.0.0 | 18:FD:74:61:20:54 | PTP2 |
 
