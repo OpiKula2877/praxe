@@ -41,4 +41,4 @@ Opravování a přidávání specifikace LAN sítě v souboru *stuff.md*.
 
 Zkoušení použitých, rozbitých a zastaralých switchů a mikrovlnných jednotek z garáže (recyklace elektrozařízení).
 
-5. Den (Pátek)
+### 5. Den (Pátek)
