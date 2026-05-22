@@ -1,4 +1,5 @@
 # Praxe (Dragon Internet Inc.)
+## 1. Týden
 ### 1. Den (Pondělí)
 - Seznámení s BOZP, pracovním řádem a rozmístěním budovy.
 
@@ -42,3 +43,14 @@
 - Zkoušení použitých, rozbitých a zastaralých switchů a mikrovlnných jednotek z garáže (recyklace elektrozařízení).
 
 ### 5. Den (Pátek)
+- Vytvoření repozitáře pro praxi (přehled činností po dnech + rozpracované projekty).
+
+- Prohlídka switchů připravených a nakonfigurovaných pro instalaci v dalších domech.
+
+- Výjezd na silo v Dobrovicích – vysvětlení fungování uzlu a bezdrátového napojení na další vysílače v okolních vesnicích.
+
+- Seznámení s řešením redundance a zálohování prvků pro případ výpadku (záložní baterie pro napájení, redundantní switche připravené k okamžitému zastoupení primárního hardwaru).
+
+- Zjištění informací o přidělování frekvencí od ČTÚ (Český telekomunikační úřad) – proces žádosti o konkrétní kmitočet pro dané území, vydání placené licence a legislativní ochrana proti rušení cizími sítěmi.
+
+## 2. Týden
