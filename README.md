@@ -1,5 +1,5 @@
 # Praxe (Dragon Internet Inc.)
-## 1. Týden
+## 1. Týden (2. patro)
 ### 1. Den (Pondělí)
 - Seznámení s BOZP, pracovním řádem a rozmístěním budovy.
 
@@ -53,4 +53,13 @@
 
 - Zjištění informací o přidělování frekvencí od ČTÚ (Český telekomunikační úřad) – proces žádosti o konkrétní kmitočet pro dané území, vydání placené licence a legislativní ochrana proti rušení cizími sítěmi.
 
-## 2. Týden
+## 2. Týden (1. patro)
+
+### 6. Den (Pondělí)
+- Seznámení s místností, kde jsem si obsadil své místo.
+
+- Reiinstalace windows na ThinkPadech.
+
+- Dodělávání prací pro webové technologie
+
+### 7. Den (Úterý)
