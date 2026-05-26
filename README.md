@@ -63,3 +63,13 @@
 - Dodělávání prací pro webové technologie
 
 ### 7. Den (Úterý)
+
+- Na praxi jsem přišel později, ale v plánu mám zůstat ve firmě déle.
+
+- Objížka 3. klientů:
+
+    1. Řešení přivedení kabelu o dva pokoje dál kvůli latenci routeru.
+
+    2. Špatně nastavené zařízení a pravděpodobná změna hesla / zapomenutí hesla – obnovení do původního stavu.
+
+    3. Cube routery od TP-Linku jsou velmi nevyhovující (na hovno): dva vydávaly hlasitý zvuk a špatně se vzájemně propojují. Řešením bylo nahradit je dvěma kvalitnějšími routery, které by měly fungovat.
