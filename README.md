@@ -73,3 +73,6 @@
     2. Špatně nastavené zařízení a pravděpodobná změna hesla / zapomenutí hesla – obnovení do původního stavu.
 
     3. Cube routery od TP-Linku jsou velmi nevyhovující (na hovno): dva vydávaly hlasitý zvuk a špatně se vzájemně propojují. Řešením bylo nahradit je dvěma kvalitnějšími routery, které by měly fungovat.
+
+### 8. Den (Středa)
+- Učení se s dockerem na Linuxu (docker compile -d, docker stop, docker ps...)
