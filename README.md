@@ -76,3 +76,5 @@
 
 ### 8. Den (Středa)
 - Učení se s dockerem na Linuxu (docker compile -d, docker stop, docker ps...)
+
+- Dělání si webové stránky.
