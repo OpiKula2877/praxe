@@ -78,3 +78,19 @@
 - Učení se s dockerem na Linuxu (docker compile -d, docker stop, docker ps...)
 
 - Dělání si webové stránky.
+
+### 9. Den (Čtvrtek)
+- Práce na webových stránkách a jejich postupné upravování.
+
+- Učení se o DLL souborech a o tom, jak se používají a vkládají do systému.
+
+- Práce s hypervisorem a seznámení se se základy virtualizace.
+
+- Práce s Linuxama - docker s MeTube a jeho configurace.
+
+### 10. Den (Pátek)
+- Učení se s HotLine odkazi.
+
+- Dokončení webové stránky.
+
+- 
