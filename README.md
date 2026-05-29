@@ -80,7 +80,7 @@
 - Dělání si webové stránky.
 
 ### 9. Den (Čtvrtek)
-- Práce na webových stránkách a jejich postupné upravování.
+- Práce na webových stránkách a jejich postupné upravování pro webové technologie.
 
 - Učení se o DLL souborech a o tom, jak se používají a vkládají do systému.
 
@@ -91,6 +91,6 @@
 ### 10. Den (Pátek)
 - Učení se s HotLine odkazi.
 
-- Dokončení webové stránky.
+- Dokončení webové stránky pro webové texchnologie.
 
 - 
